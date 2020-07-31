@@ -83,6 +83,7 @@ Symbol | Description | Example
 
 ### Equality Operators
 
+Symbol | Description | Example
 -- | -- | --
 `===` | **Strict equality**: Compares two values and returns the `true` Boolean data type if values on the right and left are equal AND are the same data type. | --
 `!==` | **Inequality**: Compares two values and returns the opposite Boolean value of what a strict equality operator would return  | --
