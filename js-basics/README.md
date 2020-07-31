@@ -31,7 +31,7 @@ Once a variable is declared, you can change its value at any point in your code 
 
 ## Data Types
 
-Variables can store many different types of values, like numbers and text. These various types of values are known as the **data type**. Data types are an important part of software development because it helps developers make decisions on how the code should be written and how the software should run. Furthermore, some data types have unique features and properties that help transform or extract additional information within a value.
+Variables can store many different types of values, like numbers and text. These various types of values are known as the **data type**. Data types are an important part of software development because it helps developers make decisions on how the code should be written and how the software should run. Furthermore, some data types have unique features that help transform or extract additional information in a value.
 
 ### Numbers
 
@@ -39,7 +39,7 @@ In the previous section, the value of `myVariable` was a number data type.
 
 `let myVariable = 123;`
 
-Variables can store all types of numbers, including decimal or negative numbers. Numbers also can be used in arithmetic operators, covered in the [next section](#operators).
+Variables can store all types of numbers, including decimal or negative numbers. Numbers also can be used with arithmetic operators, covered in the [next section](#operators).
 
 ### Strings
 
@@ -60,11 +60,32 @@ Booleans can be only two values: `true` or `false`. Booleans help make decisions
 
 ## Operators
 
-## On Numbers
+Operators are special symbols that are used to calculate values of various data types. Most operators are mathematical symbols, but may serve another purpose other than arithmetic.
 
-## On Strings
+### Arithmetic Operators
 
-## On Booleans
+Symbol | Description | Example
+-- | -- | --
+`+` | **Addition**: Calculates the sum of two numbers | `1 + 2 //expected answer is 3`
+`-`| **Subtraction**: Calculates the difference of two numbers | `1 - 2 //expected answer is -1`
+`*`| **Multiplication**: Calculates the product of two numbers | `1 * 2 //expected answer is 2`
+`/` | **Division**: Calculates the quotient of two numbers | `1 / 2 //expected answer is 0.5`
+`%` | **Remainder**: Calculates the remainder from the division of two numbers | `1 % 2 //expected answer is 1`
+
+### Relational Operators
+
+Symbol | Description | Example
+-- | -- | --
+`<` | **Greater than**: Compares two values and returns the `true` Boolean data type if the value on the right side is larger than the left | --
+`<=`| **Greater than or equal to**: Compares two values and returns the `true` Boolean data type if the value on the right side is larger than or equal to the left | --
+`>` | **Less than**: Compares two values and returns the `true` Boolean data type if the value on the left side is larger than the right | --
+`=>` | **Less than or equal to**: Compares two values and returns the `true` Boolean data type if the value on the left side is larger than or equal to the right  | --
+
+### Equality Operators
+
+-- | -- | --
+`===` | **Strict equality**: Compares two values and returns the `true` Boolean data type if values on the right and left are equal AND are the same data type. | --
+`!==` | **Inequality**: Compares two values and returns the opposite Boolean value of what a strict equality operator would return  | --
 
 ## Review & Self Study
 
