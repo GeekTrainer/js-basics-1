@@ -2,7 +2,7 @@
 
 ![video](video-url)
 
-## Make Decisions and Controlling Flow
+Making decisions and controlling the order in which your code runs makes your code reusable and robust. This section covers the syntax for controlling flow in JavaScript, and its significance when used with Boolean data types
 
 ## A Brief Recap on Booleans
 
