@@ -39,8 +39,8 @@ Logical operators are often used to form the condition.
 
 ```javascript
 
-let currentMoney  = 150;
-let laptopPrice = 152.40;
+let currentMoney;
+let laptopPrice;
 
 if (currentMoney >= laptopPrice){
 
@@ -54,8 +54,8 @@ if (currentMoney >= laptopPrice){
 The `else` statement will run the code in between its blocks when the condition is false. It's optional with an `if` statement.
 
 ```javascript
-let currentMoney  = 150;
-let laptopPrice = 152.40;
+let currentMoney;
+let laptopPrice;
 
 if (currentMoney >= laptopPrice){
 
@@ -80,10 +80,12 @@ Symbol | Description | Example
 
 ## Conditions and Decisions with Logical Operators
 
+Logical operators can be used to form conditions in if..else statements.
+
 ```javascript
-let currentMoney  = 150;
-let laptopPrice = 152.40;
-let laptopDiscountPrice = 140;
+let currentMoney;
+let laptopPrice;
+let laptopDiscountPrice = laptopPrice - (laptopPrice * .20) //Laptop price at 20 percent off
 
 
 if (currentMoney >= laptopPrice || currentMoney >= laptopDiscountPrice){
