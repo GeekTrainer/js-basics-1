@@ -1,17 +1,17 @@
 *Complete this quiz in class*
 
-1. [An accessible web site can be checked in which browser tool]
+1. [Q1]
 
-- [ ] [Lighthouse]
-- [ ] [Deckhouse]
-- [ ] [Cleanhouse]
+- [ ] [a]
+- [ ] [b]
+- [ ] [c]
 
-2. [You need a physical screen reader to test accessibility for visually-impaired users]
+2. [Q2]
 
 - [ ] [true]
 - [ ] [false]
 
-1. [Accessibility is only important on government web sites]
+3. [Q3]
    
 - [ ] [true]
 - [ ] [false]
