@@ -5,16 +5,15 @@ You will need to complete the following learn module(s) to complete the quiz:
 [Learn Link 1]()
 [Learn Link 2]()
 
-1. [Q1]
+1. Arguments must be provided for all parameters in a function
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] true
+- [ ] false
 
-2. [Q2]
+2. A default value does what?
 
-- [ ] [Option 1]
-- [ ] [Option 2]
+- [ ] 
+- [ ] Gives a starter value for a parameters so your code still behaves if you omit an argument for it
 - [ ] [Option 3]
 
 3. [Q3]

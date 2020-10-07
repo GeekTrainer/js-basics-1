@@ -1,17 +1,11 @@
 *Complete this quiz in class*
 
-1. [Q1]
+1. What's an argument?
 
-- [ ] [a]
-- [ ] [b]
-- [ ] [c]
+- [ ] It's something you declare in the function definition
+- [ ] It's something you pass into a function at invocation time
 
-2. [Q2]
+2. A function must return something?
 
-- [ ] [true]
-- [ ] [false]
-
-3. [Q3]
-   
-- [ ] [true]
-- [ ] [false]
+- [ ] true
+- [ ] false
