@@ -1,17 +1,12 @@
 *Complete this quiz in class*
 
-1. [Q1]
+1. The following operator `==` is called
 
-- [ ] [a]
-- [ ] [b]
-- [ ] [c]
+- [ ] Equality
+- [ ] Strict equality
+- [ ] Assignment
 
-2. [Q2]
+2. A comparison in JavaScript returns what type?
 
-- [ ] [true]
-- [ ] [false]
-
-3. [Q3]
-   
-- [ ] [true]
-- [ ] [false]
+- [boolean] [true]
+- [null] [false]

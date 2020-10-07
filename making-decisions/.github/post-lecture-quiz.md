@@ -5,20 +5,14 @@ You will need to complete the following learn module(s) to complete the quiz:
 [Learn Link 1]()
 [Learn Link 2]()
 
-1. [Q1]
+1. What would the following code return `'1' == 1`
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] true
+- [ ] false
 
-2. [Q2]
+2. Choose the correct operator to express _or_ logic
 
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
-
-3. [Q3]
-   
-- [ ] [Option 1]
-- [ ] [Option 2]
-- [ ] [Option 3]
+- [ ] `a | b`
+ 
+- [ ] `a || b`
+- [ ] `a or b`
