@@ -93,9 +93,48 @@ if (currentMoney >= laptopPrice || currentMoney >= laptopDiscountPrice){
     //Condition was true. Code in this block will run.
     console.log("Getting a new laptop!");
 }
-else{
+else {
     //Condition was true. Code in this block will run.
     console.log("Can't afford a new laptop, yet!");
+}
+```
+
+### Negation operator
+
+You've seen so far how if you can use an if...else to carry out conditional logic. Anything that goes into an `if` needs to evaluate to true/false. By using the `!` operator you can _negate_ the expression. It would look like so:
+
+```javascript
+if (!condition) {
+  // runs if condition is false
+} else {
+  // runs if condition is true
+}
+```
+
+### Ternary expressions
+
+if...else isn't the only way to express decision logic. You can also use something called a ternary operator. The syntax for it looks like the following:
+
+```javascript
+var variable = condition ? <return this if true> : <return this if false>`
+```
+
+Below is a more tangible example:
+
+```javascript
+var firstNumber = 20;
+var secondNumber = 10
+var biggestNumber = firstNumber > secondNumber ? firstNumber: secondNumber;
+```
+
+The above states that if `firstNumber` is larger than `secondNumber` then assign `firstNumber` to `biggestNumber` else assign `secondNumber`. The expression is just a compact way of writing the below code:
+
+```javascript
+var biggestNumber;
+if (firstNumber > secondNumber) {
+  biggestNumber = firstNumber;
+} else {
+  biggestNumber = secondNumber;
 }
 ```
 
