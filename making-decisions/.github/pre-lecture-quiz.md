@@ -8,5 +8,6 @@
 
 2. A comparison in JavaScript returns what type?
 
-- [boolean] [true]
-- [null] [false]
+- [ ] boolean
+- [ ] null
+- [ ] string

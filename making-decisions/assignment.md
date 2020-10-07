@@ -1,4 +1,4 @@
-# [Assignment Name]
+# Operators
 
 ## Instructions
 
@@ -16,7 +16,7 @@ The other grade system has the following grades `A, A-, B, B-, C, C-` where `A` 
 
 ### The task
 
-Given the following array `allStudents` representing all students and their grades, construct a new array `studentsWhoPasses` containing all students who passes.
+Given the following array `allStudents` representing all students and their grades, construct a new array `studentsWhoPass` containing all students who pass.
 
 > TIP, use a for-loop and if...else and comparison operators:
 
@@ -30,12 +30,11 @@ var allStudents = [
   2
 ]
 
-var studentsWhoPasses = [];
+var studentsWhoPass = [];
 ```
 
 ## Rubric
 
-Criteria | Exemplary | Adequate | Needs Improvement
---- | --- | --- | -- |
-||||
-||||
+| Criteria | Exemplary | Adequate | Needs Improvement |
+| -------- | --------- | -------- | ----------------- |
+|          | Complete solution is presented          |  Partial solution is presented        | Solution with bugs is presented
