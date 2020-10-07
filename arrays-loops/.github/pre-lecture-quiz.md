@@ -1,17 +1,13 @@
 *Complete this quiz in class*
 
-1. Q1
+1. To refer to specific item in an array, you would use a ...
 
-- [ ] a
-- [ ] b
-- [ ] c
+- [ ] square bracket `[]`
+- [ ] index
+- [ ] curly braces `{}`
 
-2. Q2
+2. How do you get the number of items in an array
 
-- [ ] true
-- [ ] false
-
-3. Q3
-   
-- [ ] true
-- [ ] false
+- [ ] The `len(array)` method
+- [ ] The property `size` on the array
+- [ ] The `length` property on the array

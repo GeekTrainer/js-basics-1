@@ -1,19 +1,18 @@
 *Complete this quiz along with your submission by checking one answer per question.*
 
-1. [Q1]
+1. What part of a for-loop would you need to modify to increment iteration by 5
 
-- [ ] Option 1
-- [ ] Option 2
-- [ ] Option 3
+- [ ] condition
+- [ ] counter
+- [ ] iteration-expression
 
-2. Q2
+2. What's the different between a `while` and a `for-loop`
 
-- [ ] Option 1
-- [ ] [Option 2
-- [ ] Option 3
+- [ ] A `for-loop` has a counter and iteration-expression, where `while` only has a condition
+- [ ] A `while` has a counter and iteration-expression where `for-loop` only has a condition
+- [ ] They are the same, just alias for one another
 
-3. Q3
+3. Given the code `for (let i=1; i < 5; i++)`, how many iterations will it do?
    
-- [ ] Option 1
-- [ ] Option 2
-- [ ] Option 3
+- [ ] 5
+- [ ] 4
