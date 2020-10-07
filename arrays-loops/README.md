@@ -2,6 +2,8 @@
 
 ![video](video-url)
 
+## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
+
 This lesson covers the basics of JavaScript, the language that provides interactivity on the web. In this lesson, you'll learn about arrays and loops, which are used to manipulate data.
 
 ## Arrays
@@ -100,6 +102,8 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 ✅ Experiment with looping over an array of your own making in your browser's console. 
 
 🚀 Challenge: There are other ways of looping over arrays other than for and while loops. There are [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of), and [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Rewrite your array loop using one of these techniques.
+
+## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
 ## Review & Self Study
 

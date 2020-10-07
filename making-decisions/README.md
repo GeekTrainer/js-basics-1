@@ -2,14 +2,20 @@
 
 ![video](video-url)
 
-Making decisions and controlling the order in which your code runs makes your code reusable and robust. This section covers the syntax for controlling flow in JavaScript, and its significance when used with Boolean data types
+## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
+
+Making decisions and controlling the order in which your code runs makes your code reusable and robust. This section covers the syntax for controlling data flow in JavaScript and its significance when used with Boolean data types
 
 ## A Brief Recap on Booleans
 
 Booleans can be only two values: `true` or `false`. Booleans help make decisions on which lines of code should run when certain conditions are met.
 
+Set your boolean to be true or false like this:
+
 `let myTrueBool = true`
 `let myFalseBool = false`
+
+✅ Booleans are named after the English mathematician, philosopher and logician George Boole (1815–1864).
 
 ## Comparison Operators and Booleans
 
@@ -24,13 +30,14 @@ Operators are used to evaluate conditions by making comparisons that will create
 | `===`  | **Strict equality**: Compares two values and returns the `true` Boolean data type if values on the right and left are equal AND are the same data type.       | `5 === 6 // false` |
 | `!==`  | **Inequality**: Compares two values and returns the opposite Boolean value of what a strict equality operator would return                                    | `5 !== 6 // true`  |
 
+✅ Check your knowledge by writing some comparisons in your browser's console. Does any returned data surprise you?
+
 ## If Statement
 
 The if statement will run code in between its blocks if the condition is true.
 
 ```javascript
 if (condition){
-
     //Condition was true. Code in this block will run.
 }
 ```
@@ -38,12 +45,10 @@ if (condition){
 Logical operators are often used to form the condition.
 
 ```javascript
-
 let currentMoney;
 let laptopPrice;
 
 if (currentMoney >= laptopPrice){
-
     //Condition was true. Code in this block will run.
     console.log("Getting a new laptop!");
 }
@@ -58,7 +63,6 @@ let currentMoney;
 let laptopPrice;
 
 if (currentMoney >= laptopPrice){
-
     //Condition was true. Code in this block will run.
     console.log("Getting a new laptop!");
 }
@@ -67,6 +71,8 @@ else{
     console.log("Can't afford a new laptop, yet!");
 }
 ```
+
+✅ Test your understanding of this code and the following code by running it in a browser console. Change the values of the currentMoney and laptopPrice variables to change the returned `console.log()`.
 
 ## Logical Operators and Booleans
 
@@ -87,9 +93,7 @@ let currentMoney;
 let laptopPrice;
 let laptopDiscountPrice = laptopPrice - (laptopPrice * .20) //Laptop price at 20 percent off
 
-
 if (currentMoney >= laptopPrice || currentMoney >= laptopDiscountPrice){
-
     //Condition was true. Code in this block will run.
     console.log("Getting a new laptop!");
 }
@@ -101,7 +105,7 @@ else {
 
 ### Negation operator
 
-You've seen so far how if you can use an if...else to carry out conditional logic. Anything that goes into an `if` needs to evaluate to true/false. By using the `!` operator you can _negate_ the expression. It would look like so:
+You've seen so far how if you can use an `if...else` statement to create conditional logic. Anything that goes into an `if` needs to evaluate to true/false. By using the `!` operator you can _negate_ the expression. It would look like so:
 
 ```javascript
 if (!condition) {
@@ -113,7 +117,7 @@ if (!condition) {
 
 ### Ternary expressions
 
-if...else isn't the only way to express decision logic. You can also use something called a ternary operator. The syntax for it looks like the following:
+`if...else` isn't the only way to express decision logic. You can also use something called a ternary operator. The syntax for it looks like this:
 
 ```javascript
 var variable = condition ? <return this if true> : <return this if false>`
@@ -127,7 +131,14 @@ var secondNumber = 10
 var biggestNumber = firstNumber > secondNumber ? firstNumber: secondNumber;
 ```
 
-The above states that if `firstNumber` is larger than `secondNumber` then assign `firstNumber` to `biggestNumber` else assign `secondNumber`. The expression is just a compact way of writing the below code:
+✅ Take a minute to read this code a few times. Do you understand how these operators are working?
+
+The above states that 
+- if `firstNumber` is larger than `secondNumber` 
+- then assign `firstNumber` to `biggestNumber` 
+- else assign `secondNumber`. 
+  
+The ternary expression is just a compact way of writing the code below:
 
 ```javascript
 var biggestNumber;
@@ -138,7 +149,13 @@ if (firstNumber > secondNumber) {
 }
 ```
 
+🚀 Challenge: Create a program that is written first with logical operators, and then rewrite it using a ternary expression. What's your preferred syntax?
+
+## [Post-lecture quiz](.github/post-lecture-quiz.md)
+
 ## Review & Self Study
 
-**Assignment Due [MM/YY]**: [Operators](assignment.md)
+Read more about the many operators available to the user [on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
+
+**Assignment**: [Operators](assignment.md)
 
