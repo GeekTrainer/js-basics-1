@@ -6,7 +6,7 @@
 - [ ] counter
 - [ ] iteration-expression
 
-2. What's the different between a `while` and a `for-loop`
+2. What's the difference between a `while` and a `for-loop`
 
 - [ ] A `for-loop` has a counter and iteration-expression, where `while` only has a condition
 - [ ] A `while` has a counter and iteration-expression where `for-loop` only has a condition
