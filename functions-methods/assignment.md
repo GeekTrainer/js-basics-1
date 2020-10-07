@@ -1,14 +1,13 @@
-# [Assignment Name]
+# Fun with Functions
 
 ## Instructions
 
 Create different functions, both functions that return something and functions that doesn't return something.
 
-See if you can create a function that contains has a mix of parameters and parameters with default values.
+See if you can create a function that has a mix of parameters and parameters with default values.
 
 ## Rubric
 
-Criteria | Exemplary | Adequate | Needs Improvement
---- | --- | --- | -- |
-||||
-||||
+| Criteria | Exemplary                                                                              | Adequate                                                         | Needs Improvement |
+| -------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------- |
+|          | Solution is offered with two or more well-performing functions with diverse parameters | Working solution is offered with one function and few parameters | Solution has bugs |
