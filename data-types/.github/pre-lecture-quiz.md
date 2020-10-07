@@ -1,17 +1,17 @@
 *Complete this quiz in class*
 
-1. [Booleans are a data type you can use to test the length of a string]
+1. Booleans are a data type you can use to test the length of a string]
 
-- [ ] [true]
-- [ ] [false]
+- [ ] true
+- [ ] false
 
-1. [The following is an operation you can perform on a string]
+1. The following is an operation you can perform on a string]
 
-- [ ] [concatenation]
-- [ ] [appending]
-- [ ] [splicing]
+- [ ] concatenation
+- [ ] appending
+- [ ] splicing
 
-3. [`==` and `===` are interchangeable]
+3. `==` and `===` are interchangeable]
    
-- [ ] [true]
-- [ ] [false]
+- [ ] true
+- [ ] false
