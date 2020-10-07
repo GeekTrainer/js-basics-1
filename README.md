@@ -11,4 +11,4 @@ JavaScript is the language of the web. In these four lessons, you'll learn its b
 
 ### Credits
 
-These lessons were written with ♥️ by [Jasmine Greenaway](https://twitter.com/paladique)
+These lessons were written with ♥️ by [Jasmine Greenaway](https://twitter.com/paladique) and [Chris Noring](https://twitter.com/chris_noring)
