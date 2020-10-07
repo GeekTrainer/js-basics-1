@@ -1,17 +1,17 @@
 *Complete this quiz in class*
 
-1. [Q1]
+1. Q1
 
-- [ ] [a]
-- [ ] [b]
-- [ ] [c]
+- [ ] a
+- [ ] b
+- [ ] c
 
-2. [Q2]
+2. Q2
 
-- [ ] [true]
-- [ ] [false]
+- [ ] true
+- [ ] false
 
-3. [Q3]
+3. Q3
    
-- [ ] [true]
-- [ ] [false]
+- [ ] true
+- [ ] false

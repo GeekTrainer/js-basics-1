@@ -86,8 +86,3 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 ## Review & Self Study
 
 **Assignment Due [MM/YY]**: [Assignment Name](assignment.md)
-
-Complete the following learn module(s) to complete the quiz:
-
-[Learn Link 1]()
-[Learn Link 2]()
