@@ -2,6 +2,8 @@
 
 ![video](video-url)
 
+## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
+
 This lesson covers the basics of JavaScript, the language that provides interactivity on the web.
 
 Let's start with variables and the data types that populate them!
@@ -126,6 +128,8 @@ Booleans can be only two values: `true` or `false`. Booleans can help make decis
 ✅ A variable can be considered 'truthy' if it evaluates to a boolean `true`. Interestingly, in JavaScript, [all values are truthy unless defined as falsy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
 
 🚀Challenge: JavaScript is notorious for its surprising ways of handling datatypes on occasion. Do a bit of research on these 'gotchas'. For example: case sensitivity can bite! Try this in your console: `let age = 1; let Age = 2; age == Age` (resolves `false` -- why?). What other gotchas can you find?
+
+## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
 ## Review & Self Study
 
