@@ -18,7 +18,7 @@ Parameters are listed in the definition part within parenthesis and are comma se
 
 ### Function body
 
-Here you define what the task the function should carry out. A function may or may not return something. If a function does return something then the keyword `return`. The `return` keyword expects a value or reference of what's being returned like so:
+Here you define what task the function should carry out. A function may or may not return something. If a function does return something then the keyword `return` is used. The `return` keyword expects a value or reference of what's being returned like so:
 
 ```javascript
 return myVariable;
