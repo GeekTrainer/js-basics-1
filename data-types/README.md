@@ -1,4 +1,4 @@
-# JavaScript Basics
+# JavaScript Basics: Data Types
 
 ![video](video-url)
 
