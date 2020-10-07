@@ -8,6 +8,5 @@
 2. Choose the correct operator to express _or_ logic
 
 - [ ] `a | b`
- 
 - [ ] `a || b`
 - [ ] `a or b`
