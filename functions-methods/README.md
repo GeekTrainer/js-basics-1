@@ -28,7 +28,7 @@ A more complete example can look like so:
 
 ```javascript
 function add(firstValue, secondValue) {
-  var sum = firstValue + secondValue;
+  let sum = firstValue + secondValue;
   return sum;
 }
 ```
@@ -40,7 +40,7 @@ In the above code the `sum` variable is being returned.
 When you _invoke_ a function you call it with 0...N set of arguments. The argument values are then bound to the parameters corresponding to their position. The introduced `add()` method can be invoked in the following way:
 
 ```javascript
-var result = add(1, 3);
+let result = add(1, 3);
 console.log(result); // prints 4
 ```
 

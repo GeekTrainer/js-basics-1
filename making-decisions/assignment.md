@@ -21,7 +21,7 @@ Given the following array `allStudents` representing all students and their grad
 > TIP, use a for-loop and if...else and comparison operators:
 
 ```javascript
-var allStudents = [
+let allStudents = [
   'A',
   'B-'
   1,
@@ -30,11 +30,11 @@ var allStudents = [
   2
 ]
 
-var studentsWhoPass = [];
+let studentsWhoPass = [];
 ```
 
 ## Rubric
 
-| Criteria | Exemplary | Adequate | Needs Improvement |
-| -------- | --------- | -------- | ----------------- |
-|          | Complete solution is presented          |  Partial solution is presented        | Solution with bugs is presented
+| Criteria | Exemplary                      | Adequate                      | Needs Improvement               |
+| -------- | ------------------------------ | ----------------------------- | ------------------------------- |
+|          | Complete solution is presented | Partial solution is presented | Solution with bugs is presented |

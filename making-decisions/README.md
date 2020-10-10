@@ -120,15 +120,15 @@ if (!condition) {
 `if...else` isn't the only way to express decision logic. You can also use something called a ternary operator. The syntax for it looks like this:
 
 ```javascript
-var variable = condition ? <return this if true> : <return this if false>`
+let variable = condition ? <return this if true> : <return this if false>`
 ```
 
 Below is a more tangible example:
 
 ```javascript
-var firstNumber = 20;
-var secondNumber = 10
-var biggestNumber = firstNumber > secondNumber ? firstNumber: secondNumber;
+let firstNumber = 20;
+let secondNumber = 10
+let biggestNumber = firstNumber > secondNumber ? firstNumber: secondNumber;
 ```
 
 ✅ Take a minute to read this code a few times. Do you understand how these operators are working?
@@ -141,7 +141,7 @@ The above states that
 The ternary expression is just a compact way of writing the code below:
 
 ```javascript
-var biggestNumber;
+let biggestNumber;
 if (firstNumber > secondNumber) {
   biggestNumber = firstNumber;
 } else {
