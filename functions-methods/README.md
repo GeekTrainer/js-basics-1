@@ -1,4 +1,8 @@
-## Functions
+# JavaScript Basics: Methods and Functions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgKsD6Zwvlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 A function is a block of code meant to accomplish a task. You create a function by using the `function` keyword, a name, a set of parameters and function definition also known as the functions _body_. The syntax for a function looks like the following:
 
@@ -68,3 +72,14 @@ add5(4,2) // returns 6
 ```
 
 Any parameters with default values must be at the end of the parameter listing. The reason is that JavaScript tries to match arguments with parameters and parameters with default values can be omitted at invocation. 
+
+🚀 Challenge: TODO
+
+## [Post-lecture quiz](.github/post-lecture-quiz.md)
+
+## Review & Self Study
+
+TODO
+
+**Assignment**: [Data Types Practice](assignment.md)
+
