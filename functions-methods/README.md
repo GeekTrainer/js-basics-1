@@ -20,7 +20,7 @@ Parameters are listed in the definition part within parenthesis and are comma se
 (param, param2, param3)
 ```
 
-### Function body
+### Function body
 
 Here you define what task the function should carry out. A function may or may not return something. If a function does return something then the keyword `return` is used. The `return` keyword expects a value or reference of what's being returned like so:
 
