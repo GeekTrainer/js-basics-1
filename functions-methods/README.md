@@ -4,6 +4,10 @@
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
+When you need your code to perform a task, you're going to use a method or a function. Let's dive into the differences.
+
+## Functions
+
 A function is a block of code meant to accomplish a task. You create a function by using the `function` keyword, a name, a set of parameters and function definition also known as the functions _body_. The syntax for a function looks like the following:
 
 ```javascript
@@ -11,6 +15,10 @@ function name(param, param2, param3) { // function definition
  // function definition/body
 }
 ```
+
+## Methods
+
+TODO
 
 ### Parameter
 
