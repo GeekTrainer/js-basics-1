@@ -1,6 +1,9 @@
 # JavaScript Basics: Data Types
 
-<iframe src="https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/Data-types-in-JavaScript-15-of-51/player" width="960" height="540" allowFullScreen frameBorder="0" title="Data types in JavaScript [15 of 51] - Microsoft Channel 9 Video"></iframe>
+[![Data types in JavaScript](https://img.youtube.com/vi/rEHV3fFMfn0/0.jpg)](https://youtube.com/watch?v=rEHV3fFMfn0 "Data types in JavaScript")
+
+https://youtu.be/rEHV3fFMfn0
+
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 

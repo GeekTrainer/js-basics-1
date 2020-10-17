@@ -1,6 +1,7 @@
 # JavaScript Basics: Arrays and Loops
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_CRM2lXXBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Arrays and Loops](https://img.youtube.com/vi/Q_CRM2lXXBg/0.jpg)](https://youtube.com/watch?v=Q_CRM2lXXBg "Arrays and Loops")
+
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 

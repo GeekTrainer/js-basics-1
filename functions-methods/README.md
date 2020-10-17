@@ -1,6 +1,6 @@
 # JavaScript Basics: Methods and Functions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XgKsD6Zwvlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Methods and Functions](https://img.youtube.com/vi/XgKsD6Zwvlc/0.jpg)](https://youtube.com/watch?v=XgKsD6Zwvlc "Methods and Functions")
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
