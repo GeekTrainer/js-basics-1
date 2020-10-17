@@ -1,6 +1,6 @@
 # JavaScript Basics: Arrays and Loops
 
-![video](video-url)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_CRM2lXXBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
