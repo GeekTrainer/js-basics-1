@@ -1,6 +1,6 @@
 # JavaScript Basics: Data Types
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNIXfGiDWM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Data types in JavaScript](https://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](https://youtube.com/watch?v=JNIXfGiDWM8 "Data types in JavaScript")
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
