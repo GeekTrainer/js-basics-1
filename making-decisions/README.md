@@ -1,6 +1,6 @@
 # JavaScript Basics: Making Decisions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SxTp8j-fMMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Making Decisions](https://img.youtube.com/vi/SxTp8j-fMMY/0.jpg)](https://youtube.com/watch?v=SxTp8j-fMMY "Making Decisions")
 
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
